@@ -1,0 +1,27 @@
+
+h3:hover {
+border: 4px solid black
+}
+.home1 {
+background-color: brown;
+font-size: 20px;
+font-style: italic;
+}
+.home2 {
+background-color: green;
+font-size: 20ppx;
+}
+.home3 {
+background-color: blueviolet;
+font-size: 30px;
+font-style: italic;
+}
+.home4 {
+background-color: chocolate;
+font-size: 20px;
+}
+.home5 {
+background-color: gray;
+font-size: 20px;
+font-style: italic;
+}
