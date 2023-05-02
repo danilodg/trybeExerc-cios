@@ -5,15 +5,19 @@
 }
 .second {
  display: inline-block;
- width: 300px;
+ max-width: 50%;
 }
 .third {
 display: inline-block;
-width: 300px;
+max-width: 40%;
 }
 h3 {
     text-align: center;
 }
 li {
+    text-align: center;
     display: inline-block;
+}
+ul {
+    text-align: center;
 }
