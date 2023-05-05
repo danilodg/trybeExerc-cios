@@ -13,6 +13,12 @@ let info2 = {
     recorrente: 'Sim',
   }; 
 
-  for (let index in info, info2){
-    console.log(info[index] + ' e ' + info2[index]);
+  for (chave in info){
+    if(chave === "recorrente" && info[chave] === "Sim" && info2[chave] === "Sim"){
+        console.log("Ambos recorrentes");
+    } else {
+        console.log(info[chave] + ' e ' + info2[chave]);
+    }
+
   }
+  
