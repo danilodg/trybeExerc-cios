@@ -9,4 +9,4 @@ let meuObjeto = {
     age: 34,
 };
 
-console.log("A jogadora " + meuObjeto.name + " tem " + meuObjeto.age + "anos de idade")
+console.log("A jogadora " + meuObjeto.name + " tem " + meuObjeto.age + " anos de idade")
