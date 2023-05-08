@@ -1,4 +1,3 @@
-const nomeCompleto = (nome, sobrenome) => {(`${nome} ${sobrenome}`)}
+const hello = (nome) => `Olá, ${nome}!`
   let nome = 'Ivan';
-  let sobrenome = 'Pires';
-  console.log(nomeCompleto(nome, sobrenome));
+  console.log(hello(nome));
