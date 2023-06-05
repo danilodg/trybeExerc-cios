@@ -1,0 +1,3 @@
+const numbers = [19, 21, 30, 3, 45, 22, 15];
+
+numbers.find((number) => (number / 3 && number / 5) % 0 === 0)
